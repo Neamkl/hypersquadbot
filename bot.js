@@ -225,7 +225,7 @@ client.on('message', msg => {
 
 client.on('message', msg => {
   if (msg.content.toLowerCase() === 'h!desteksunucusu') {
-    msg.reply('İşte... :( https://discord.gg/Yssjq7J Kurucuya Burdan Soru Sorabilirsiniz.');
+    msg.reply('İşte... :( https://discord.gg/4WVJM7C Kurucuya Burdan Soru Sorabilirsiniz.');
   }
 });
 
